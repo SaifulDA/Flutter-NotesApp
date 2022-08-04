@@ -11,16 +11,15 @@ If you want to use firebase to store the notes online, check out this [repo](htt
 
 Screenshots:<br>
 <table style={border:"none"}><tr>
-<td><img src="https://github.com/SaifulDA/Flutter-NotesApp/blob/4dc0949fcd430ba1682b15926e9a3d7072e1b3e2/ss/ss1.jpeg" alt="Screenshot 2"/></td>
-<td><img src="https://user-images.githubusercontent.com/29589003/57538952-29b50400-7369-11e9-9b42-6a5770cb18e6.png" alt="Screenshot 1"/></td>
-<td><img src="https://user-images.githubusercontent.com/29589003/57538950-29b50400-7369-11e9-990f-1d2fb7a9d1a0.png" alt="Screenshot 3"/></td>
+<td><img src="https://github.com/SaifulDA/Flutter-NotesApp/blob/4dc0949fcd430ba1682b15926e9a3d7072e1b3e2/ss/ss1.jpeg" alt="Screenshot 1"/></td>
+<td><img src="https://github.com/SaifulDA/Flutter-NotesApp/blob/acc34448a8bb5fea4b7467e2188f216310e0911b/ss/ss2.jpeg" alt="Screenshot 2"/></td>
+
 
 </tr>
 <tr>
-<td><img src="https://user-images.githubusercontent.com/29589003/57538957-2ae63100-7369-11e9-8506-1cd7decf1815.png" alt="Screenshot 1"/></td>
+<td><img src="https://github.com/SaifulDA/Flutter-NotesApp/blob/acc34448a8bb5fea4b7467e2188f216310e0911b/ss/ss3.jpeg" alt="Screenshot 3"/></td>
+<td><img src="https://github.com/SaifulDA/Flutter-NotesApp/blob/acc34448a8bb5fea4b7467e2188f216310e0911b/ss/ss4.jpeg" alt="Screenshot 4"/></td>
 
-<td><img src="https://user-images.githubusercontent.com/29589003/57538953-2a4d9a80-7369-11e9-9249-6020ae6eb949.png" alt="Screenshot 2"/></td>
-<td><img src="https://user-images.githubusercontent.com/29589003/57538954-2a4d9a80-7369-11e9-8b25-3f2027a422b8.png" alt="Screenshot 3"/></td>
 
 
 
